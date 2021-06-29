@@ -1,8 +1,3 @@
-## 🖥 Preview 
-
-<p align="center">
-  <img src="Podcastr.png" width="800px" >
-</p>
 
 ---
 
@@ -24,6 +19,3 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 --- 
 
-<p align="center">
-    <img src="icon.svg" alt="Logo-Podcastr">
-</p>
